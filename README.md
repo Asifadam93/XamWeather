@@ -1,3 +1,5 @@
 # XamWeather
-Using Xamarin cross-platform
-Powered by openweathermap api
+
+Using Xamarin cross-platform.
+
+Powered by openweathermap api.
